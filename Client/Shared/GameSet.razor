@@ -1,0 +1,36 @@
+<section class="functional-btns">
+    <div @onclick="() => ShowGameSet = true">NEW GAME</div>
+    <div>LEADERBOARD</div>
+    <div>EXIT</div>
+</section>
+
+
+@if (ShowGameSet)
+{
+
+    <section class="login-form">
+        <label for="game-name">game name:
+            <input type="text" name="game-name" id="game-name">
+        </label>
+        <label for="ball-speed">ball speed:
+            <select name="ball-speed" id="ball-speed">
+                <option value="slow">slow</option>
+                <option value="medium">medium</option>
+                <option value="fast">fast</option>
+            </select>
+        </label>
+        <label for="game-mode">mode:
+            <select name="game-mode" id="game-mode">
+                <option value="slow">first-out</option>
+                <option value="medium">***</option>
+                <option value="fast">***</option>
+            </select>
+        </label>
+
+    </section>
+    <a class="login-btn" href="/game-page">start</a>
+}
+
+@code {
+    bool ShowGameSet;
+}

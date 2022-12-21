@@ -1,0 +1,12 @@
+U:\dev\Projects\PongPing\Shared\bin\Debug\net7.0\PongPing.Shared.deps.json
+U:\dev\Projects\PongPing\Shared\bin\Debug\net7.0\PongPing.Shared.dll
+U:\dev\Projects\PongPing\Shared\bin\Debug\net7.0\PongPing.Shared.pdb
+U:\dev\Projects\PongPing\Shared\obj\Debug\net7.0\PongPing.Shared.csproj.AssemblyReference.cache
+U:\dev\Projects\PongPing\Shared\obj\Debug\net7.0\PongPing.Shared.GeneratedMSBuildEditorConfig.editorconfig
+U:\dev\Projects\PongPing\Shared\obj\Debug\net7.0\PongPing.Shared.AssemblyInfoInputs.cache
+U:\dev\Projects\PongPing\Shared\obj\Debug\net7.0\PongPing.Shared.AssemblyInfo.cs
+U:\dev\Projects\PongPing\Shared\obj\Debug\net7.0\PongPing.Shared.csproj.CoreCompileInputs.cache
+U:\dev\Projects\PongPing\Shared\obj\Debug\net7.0\PongPing.Shared.dll
+U:\dev\Projects\PongPing\Shared\obj\Debug\net7.0\refint\PongPing.Shared.dll
+U:\dev\Projects\PongPing\Shared\obj\Debug\net7.0\PongPing.Shared.pdb
+U:\dev\Projects\PongPing\Shared\obj\Debug\net7.0\ref\PongPing.Shared.dll

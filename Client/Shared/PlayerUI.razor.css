@@ -1,0 +1,9 @@
+.player {
+  position: absolute;
+  width: 120px;
+  height: 15px;
+  /* bottom: 10px;
+    left: 240px; */
+  border-radius: 7px;
+  background-color: aqua;
+}

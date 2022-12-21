@@ -1,0 +1,30 @@
+<div tabindex="0" class="player" style=@MyStyle @onkeydown="Move"></div>
+
+@code {
+  private const int top = 570;
+
+  private static int left = 240;
+
+  private static string MyStyle = $"left: {left}px; top: {top}px";
+
+
+  public void Move(KeyboardEventArgs e)
+  {
+    System.Console.WriteLine("works");
+
+    switch (e.Key)
+    {
+      case "ArrowRight":
+        left += 20;
+        break;
+      case "ArrowLeft":
+        left -= 20;
+        break;
+      default:
+        break;
+    }
+
+    MyStyle = $"left: {left}px; top: {top}px";
+  }
+
+}

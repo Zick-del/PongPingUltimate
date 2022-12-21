@@ -1,0 +1,30 @@
+<section class="functional-btns">
+    <div @onclick="() => ShowLogin = true">LOGIN</div>
+    <div>REGISTER</div>
+    <div>EXIT</div>
+</section>
+
+
+
+@if (ShowLogin)
+{
+    <section class="login-form">
+        
+        <label for="username">username:
+            <input type="text" name="username" id="username">
+        </label>
+
+        <label for="password">password:
+            <input type="password" name="password" id="password">
+        </label>
+
+    </section>
+    <a class="login-btn" href="/game-set">login</a>
+
+    
+}
+
+@code {
+    bool ShowLogin;
+
+}

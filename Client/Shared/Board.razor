@@ -1,0 +1,21 @@
+<section class="board-section">
+    <p>@BoardName</p>
+    <ul style="list-style-type: none;" class="board-container">
+        <li>@Player1.Name: 220</li>
+        <li>@Player2.Name: 200</li>
+    </ul>
+</section>
+
+@code {
+    public Models.Player Player1 = new Models.Player()
+    {
+        Name = "John"
+    };
+
+    public Models.Player Player2 { get; private set; } = new Models.Player()
+    {
+        Name = "Smith"
+    };
+
+    [Parameter] public string BoardName { get; set; } = "";
+}

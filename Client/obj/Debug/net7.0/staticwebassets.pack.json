@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "U:\\dev\\Projects\\PongPing\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "U:\\dev\\Projects\\PongPing\\Client\\obj\\Debug\\net7.0\\build-gz\\u5MW2Idn.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "U:\\dev\\Projects\\PongPing\\Client\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PongPing.Client.styles.css",
+      "PackagePath": "staticwebassets\\PongPing.Client.styles.css"
+    },
+    {
+      "Id": "U:\\dev\\Projects\\PongPing\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "U:\\dev\\Projects\\PongPing\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.PongPing.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.PongPing.Client.props",
+      "PackagePath": "build\\PongPing.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.PongPing.Client.props",
+      "PackagePath": "buildMultiTargeting\\PongPing.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.PongPing.Client.props",
+      "PackagePath": "buildTransitive\\PongPing.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
