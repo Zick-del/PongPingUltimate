@@ -1,9 +1,8 @@
 .player[b-o7o6zyv5j6] {
   position: absolute;
-  width: 120px;
-  height: 15px;
-  /* bottom: 10px;
-    left: 240px; */
+  bottom: 1vw;
+  width: 7vw;
+  height: 1vw;
   border-radius: 7px;
   background-color: aqua;
 }

@@ -207,14 +207,14 @@
       "netstandard.dll": "sha256-kj5cBXzwPYC+HD+P8+6VybY34JtEzjXjMIHXEI3hIiM=",
       "System.Private.CoreLib.dll": "sha256-Awk1lCiFfH7r9AAZfBtGqS8rhv6UJ5lUu3yF6HDH3tQ=",
       "PongPing.Shared.dll": "sha256-cxzx1HWOEpDBwXqunoZ2d11CO42TY6GEQXCdsHYLzMI=",
-      "PongPing.Client.dll": "sha256-MzOoxSe4CxdMyPeFc3eUMc4I2ST3BJ1gI\/2zbgZMvjk="
+      "PongPing.Client.dll": "sha256-yTM7Be\/iHW04qY1ggAOuSC\/iWUUVhbHxSYcWEMI1Rxc="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "PongPing.Shared.pdb": "sha256-\/Rr0T6ZnWWw8lbqn1PJd127TwKOyg\/UsDOj2s5pIjfw=",
-      "PongPing.Client.pdb": "sha256-L6NQesdvmk\/bx42n7xjSjcey4h3CseJfit6fNYgocz8="
+      "PongPing.Client.pdb": "sha256-LzRXFFKajmOJD336LwpytHJkCkhxntT5M93UsNTr8s4="
     },
     "runtime": {
       "dotnet.7.0.0.eycy5242li.js": "sha256-2jNLve8W0sST0LAebgAc1IwSnGhkbjOKO8QPWWiJssI=",

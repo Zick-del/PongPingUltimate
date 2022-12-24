@@ -1,0 +1,18 @@
+<div class="ball" style=@BallMovingStyle @onmouseover="MoveBall"></div>
+
+
+@code {
+
+  private static int x = 20;
+  private static int y = 20;
+
+  private string BallMovingStyle = $"left: {x}vw; top: {y}vw";
+  private void MoveBall()
+  {
+    x += 1;
+    y += 1;
+    BallMovingStyle = $"left: {x}vw; top: {y}vw";
+  }
+
+
+}

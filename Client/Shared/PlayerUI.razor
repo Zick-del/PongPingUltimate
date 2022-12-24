@@ -1,30 +1,27 @@
-<div tabindex="0" class="player" style=@MyStyle @onkeydown="Move"></div>
+<div tabindex="-2" class="player" style=@MyStyle @onkeydown="Move"></div>
 
 @code {
-  private const int top = 570;
 
-  private static int left = 240;
+  private static int left = 16;
+  private static string MyStyle = $"left: {left}vw;";
 
-  private static string MyStyle = $"left: {left}px; top: {top}px";
-
-
-  public void Move(KeyboardEventArgs e)
+  private void Move(KeyboardEventArgs e)
   {
     System.Console.WriteLine("works");
+    System.Console.WriteLine(e.Key);
 
-    switch (e.Key)
+    if (e.Key == "ArrowLeft")
     {
-      case "ArrowRight":
-        left += 20;
-        break;
-      case "ArrowLeft":
-        left -= 20;
-        break;
-      default:
-        break;
+      if (left > 0) left -= 1;
+    }
+    else if (e.Key == "ArrowRight")
+    {
+      if (left < 33) left += 1;
     }
 
-    MyStyle = $"left: {left}px; top: {top}px";
+
+    MyStyle = $"left: {left}vw;";
   }
+
 
 }

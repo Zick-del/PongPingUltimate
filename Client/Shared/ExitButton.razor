@@ -1,0 +1,10 @@
+@inject IJSRuntime JsRuntime
+
+<div @onclick="@(e => OnButtonClick("close"))">EXIT</div>
+
+@code {
+  private void OnButtonClick(string value)
+  {
+    JsRuntime.InvokeVoidAsync($"window.{value}");
+  }
+}

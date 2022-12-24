@@ -9,53 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = PongPing.Client
 build_property.RootNamespace = PongPing.Client
-build_property.ProjectDir = U:\dev\Projects\PongPing\Client\
+build_property.ProjectDir = u:\dev\Projects\PongPing\Client\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = U:\dev\Projects\PongPing\Client
+build_property.MSBuildProjectDirectory = u:\dev\Projects\PongPing\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[U:/dev/Projects/PongPing/Client/App.razor]
+[u:/dev/Projects/PongPing/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/dev/Projects/PongPing/Client/Pages/GamePage.razor]
+[u:/dev/Projects/PongPing/Client/Pages/GamePage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZVBhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/dev/Projects/PongPing/Client/Pages/GameStart.razor]
+[u:/dev/Projects/PongPing/Client/Pages/GameStart.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZVN0YXJ0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/dev/Projects/PongPing/Client/Pages/Index.razor]
+[u:/dev/Projects/PongPing/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/dev/Projects/PongPing/Client/Shared/MainLayout.razor]
+[u:/dev/Projects/PongPing/Client/Shared/ExitButton.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEV4aXRCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[u:/dev/Projects/PongPing/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/dev/Projects/PongPing/Client/_Imports.razor]
+[u:/dev/Projects/PongPing/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[U:/dev/Projects/PongPing/Client/Shared/Board.razor]
+[u:/dev/Projects/PongPing/Client/Shared/Ball.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJhbGwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-y3tzya7ewj
+
+[u:/dev/Projects/PongPing/Client/Shared/Board.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJvYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-rqn2gqkna1
 
-[U:/dev/Projects/PongPing/Client/Shared/GameSet.razor]
+[u:/dev/Projects/PongPing/Client/Shared/GameSet.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEdhbWVTZXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-markfb8e2g
 
-[U:/dev/Projects/PongPing/Client/Shared/LoginForm.razor]
+[u:/dev/Projects/PongPing/Client/Shared/LoginForm.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRm9ybS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-cykkh424od
 
-[U:/dev/Projects/PongPing/Client/Shared/PlayerUI.razor]
+[u:/dev/Projects/PongPing/Client/Shared/PlayerUI.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBsYXllclVJLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-o7o6zyv5j6
 
-[U:/dev/Projects/PongPing/Client/Shared/PlayField.razor]
+[u:/dev/Projects/PongPing/Client/Shared/PlayField.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBsYXlGaWVsZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-zsydyejgny

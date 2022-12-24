@@ -865,7 +865,8 @@ U:\dev\Projects\PongPing\Client\obj\Debug\net7.0\build-gz\Gebizuuf.gz
 U:\dev\Projects\PongPing\Client\obj\Debug\net7.0\build-gz\LJUyjJTE.gz
 U:\dev\Projects\PongPing\Client\obj\Debug\net7.0\build-gz\mTU6G+rY.gz
 U:\dev\Projects\PongPing\Client\obj\Debug\net7.0\build-gz\iOxvsbeq.gz
-U:\dev\Projects\PongPing\Client\obj\Debug\net7.0\scopedcss\Shared\GameSet.razor.rz.scp.css
 U:\dev\Projects\PongPing\Client\obj\Debug\net7.0\scopedcss\Shared\Board.razor.rz.scp.css
 U:\dev\Projects\PongPing\Client\obj\Debug\net7.0\scopedcss\Shared\PlayField.razor.rz.scp.css
 U:\dev\Projects\PongPing\Client\obj\Debug\net7.0\scopedcss\Shared\PlayerUI.razor.rz.scp.css
+U:\dev\Projects\PongPing\Client\obj\Debug\net7.0\scopedcss\Shared\Ball.razor.rz.scp.css
+U:\dev\Projects\PongPing\Client\obj\Debug\net7.0\scopedcss\Shared\GameSet.razor.rz.scp.css

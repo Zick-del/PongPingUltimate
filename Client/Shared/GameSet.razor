@@ -1,7 +1,7 @@
 <section class="functional-btns">
     <div @onclick="() => ShowGameSet = true">NEW GAME</div>
     <div>LEADERBOARD</div>
-    <div>EXIT</div>
+    <ExitButton />
 </section>
 
 
@@ -14,16 +14,16 @@
         </label>
         <label for="ball-speed">ball speed:
             <select name="ball-speed" id="ball-speed">
-                <option value="slow">slow</option>
-                <option value="medium">medium</option>
-                <option value="fast">fast</option>
+                <option>slow</option>
+                <option>medium</option>
+                <option>fast</option>
             </select>
         </label>
         <label for="game-mode">mode:
             <select name="game-mode" id="game-mode">
-                <option value="slow">first-out</option>
-                <option value="medium">***</option>
-                <option value="fast">***</option>
+                <option>first-out</option>
+                <option>***</option>
+                <option>***</option>
             </select>
         </label>
 

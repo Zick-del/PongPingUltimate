@@ -1,7 +1,7 @@
 <section class="functional-btns">
     <div @onclick="() => ShowLogin = true">LOGIN</div>
     <div>REGISTER</div>
-    <div>EXIT</div>
+    <ExitButton />
 </section>
 
 
@@ -9,7 +9,7 @@
 @if (ShowLogin)
 {
     <section class="login-form">
-        
+
         <label for="username">username:
             <input type="text" name="username" id="username">
         </label>
@@ -21,7 +21,7 @@
     </section>
     <a class="login-btn" href="/game-set">login</a>
 
-    
+
 }
 
 @code {
